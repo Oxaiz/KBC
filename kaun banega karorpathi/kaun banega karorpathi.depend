@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716748996 source:c:\users\mfako\desktop\daa c\kaun banega karorpathi\main.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<cctype>
+
